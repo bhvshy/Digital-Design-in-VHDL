@@ -38,5 +38,5 @@ The purpose of this repository is to document the experiments conducted in the *
 
 ## Author
 Bhavishya<br/>
-Electrical Engineering
+Electrical Engineering<br/>
 IIT Bombay
