@@ -27,7 +27,10 @@ This repository features a variety of digital designs, including:
 - **SPI Communication**:
   - SPI Master Modules (ADC, DAC, Combination of ADC and DAC)
   - Clock Divider
-  - 
+  
+## SPI Module Report
+A detailed report on the SPI Module implementation can be accessed [here](https://iitbacin-my.sharepoint.com/:f:/g/personal/23b1230_iitb_ac_in/EjRcxX34m0ZDlx_ojMRiiq0B294DOFoWB_DzkWfakUuOSQ?e=H2jvEW).
+
 ## Purpose
 The purpose of this repository is to document the experiments conducted in the **Digital Circuits Lab** and provide a structured collection of VHDL implementations. These designs serve students and professionals interested in hardware description languages, FPGA design, and digital logic design. By organizing these circuits into a single repository, the goal is to make it easier for others to study, modify, and expand upon the provided implementations.
 
